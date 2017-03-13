@@ -1,5 +1,8 @@
 _repo: Eric-Brighteyes_2721
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -15,6 +18,8 @@ description: "The Saga of Eric Brighteyes is the title of an epic viking novel b
   \ H. Rider Haggard, and concerns the adventures of its eponymous principal character\
   \ in 10th century Iceland. The novel was first published in 1890 by Longmans, Green\
   \ & Company. It was illustrated by Lancelot Speed.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2721#Eric-Brighteyes
 gutenberg_issued: '2006-03-31'
 gutenberg_type: Text
 identifiers:
